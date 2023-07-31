@@ -1,6 +1,6 @@
 <svg width="300" height="200" xmlns="http://www.w3.org/2000/svg">
-        <circle cx="50%" cy="50%" r="80" fill="pink"></circle>
-        <text x="150" y="135" font-size="65" text-anchor="middle" fill="black">
+        <rect x="93.75" y="43.75" width="112.5" height="112.5" fill="black" />
+        <text x="150" y="135" font-size="65" text-anchor="middle" fill="pink">
         EMO
         </text>
   </svg>
